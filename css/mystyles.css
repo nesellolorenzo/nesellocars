@@ -1,0 +1,37 @@
+h1 {
+    font-size: 53px;
+}
+
+.page-title {
+    text-align: center;
+    color: darkslategrey;
+    font-style: normal;
+}
+
+.menu {
+    border-top-style: solid;
+    border-bottom-style: solid;
+    text-align: center;
+    margin-top: 30px;
+    padding-top: 9px;
+    padding-bottom: 9px;
+    margin-left: 50px;
+    margin-right: 50px;
+    border-width: 2px;
+}
+
+.mt-6 {
+    margin-top: 3.75rem;
+}
+
+.mt-4 {
+    margin-top: 1.875 !important;
+}
+
+.slider {
+    width: 100vw;
+}
+
+.icon-holder {
+    
+}
